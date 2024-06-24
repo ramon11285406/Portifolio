@@ -1,0 +1,93 @@
+Copyright 2022 Autores do Projeto Figtree (https://github.com/erikdkennedy/figtree)
+
+Este software de fonte é licenciado sob a licença SIL Open Font, versão 1.1.
+Esta licença é copiada abaixo e também está disponível com perguntas frequentes em:
+http://scripts.sil.org/OFL
+
+
+-------------------------------------------------- ---------
+LICENÇA SIL OPEN FONT Versão 1.1 - 26 de fevereiro de 2007
+-------------------------------------------------- ---------
+
+PREÂMBULO
+Os objetivos da Open Font License (OFL) são estimular em todo o mundo
+desenvolvimento de projetos colaborativos de fontes, para apoiar a criação de fontes
+esforços das comunidades acadêmicas e linguísticas, e para fornecer um ambiente gratuito e
+estrutura aberta na qual as fontes podem ser compartilhadas e melhoradas em parceria
+com outros.
+
+A OFL permite que as fontes licenciadas sejam utilizadas, estudadas, modificadas e
+redistribuídos gratuitamente, desde que não sejam vendidos por si próprios. O
+fontes, incluindo quaisquer trabalhos derivados, podem ser agrupadas, incorporadas, 
+redistribuído e/ou vendido com qualquer software, desde que qualquer software reservado
+nomes não são usados ​​por trabalhos derivados. As fontes e derivados,
+no entanto, não pode ser lançado sob nenhum outro tipo de licença. O
+o requisito para que as fontes permaneçam sob esta licença não se aplica
+a qualquer documento criado usando as fontes ou seus derivados.
+
+DEFINIÇÕES
+"Font Software" refere-se ao conjunto de arquivos liberados pela Copyright
+Titular(es) sob esta licença e claramente marcados como tal. Isso pode
+incluem arquivos de origem, scripts de construção e documentação.
+
+"Nome da fonte reservada" refere-se a quaisquer nomes especificados como tal após o
+declaração(ões) de direitos autorais.
+
+"Versão Original" refere-se à coleção de componentes do Font Software como
+distribuído pelo(s) Detentor(es) dos Direitos Autorais.
+
+"Versão Modificada" refere-se a qualquer derivado feito adicionando, excluindo,
+ou substituindo - em parte ou no todo - qualquer um dos componentes do
+Versão Original, alterando formatos ou portando o Software de Fonte para um
+novo ambiente.
+
+"Autor" refere-se a qualquer designer, engenheiro, programador, técnico
+escritor ou outra pessoa que contribuiu para o Font Software.
+
+PERMISSÃO E CONDIÇÕES
+A permissão é concedida gratuitamente a qualquer pessoa que obtenha
+uma cópia do Software Font, para usar, estudar, copiar, mesclar, incorporar, modificar,
+redistribuir e vender cópias modificadas e não modificadas da Fonte
+Software, sujeito às seguintes condições:
+
+1) Nem o Font Software nem qualquer um de seus componentes individuais,
+em versões originais ou modificadas, pode ser vendido sozinho.
+
+2) Versões originais ou modificadas do software de fonte podem ser agrupadas,
+redistribuído e/ou vendido com qualquer software, desde que cada cópia
+contém o aviso de direitos autorais acima e esta licença. Estes podem ser
+incluídos como arquivos de texto independentes, cabeçalhos legíveis ou
+nos campos apropriados de metadados legíveis por máquina em texto ou
+arquivos binários, desde que esses campos possam ser facilmente visualizados pelo usuário.
+
+3) Nenhuma versão modificada do software de fonte pode usar a fonte reservada
+Nome(s), a menos que permissão explícita por escrito seja concedida pelo correspondente
+Detentor dos direitos autorais. Esta restrição se aplica apenas ao nome da fonte primária como
+apresentados aos usuários.
+
+4) O(s) nome(s) do(s) detentor(es) dos direitos autorais ou do(s) autor(es) da fonte
+O software não deve ser usado para promover, endossar ou anunciar qualquer
+Versão Modificada, exceto para reconhecer a(s) contribuição(ões) do
+O(s) Detentor(es) dos Direitos Autorais e o(s) Autor(es) ou com sua declaração explícita por escrito
+permissão.
+
+5) O Software Font, modificado ou não, parcial ou totalmente,
+deve ser distribuído inteiramente sob esta licença e não deve ser
+distribuído sob qualquer outra licença. A exigência de que as fontes
+permanecer sob esta licença não se aplica a nenhum documento criado
+usando o software de fonte.
+
+TERMINAÇÃO
+Esta licença torna-se nula e sem efeito se alguma das condições acima for
+não conheceu.
+
+ISENÇÃO DE RESPONSABILIDADE
+O SOFTWARE DE FONTES É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE QUALQUER TIPO,
+EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO A QUAISQUER GARANTIAS DE
+COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO
+DE DIREITOS AUTORAIS, PATENTE, MARCA REGISTRADA OU OUTRO DIREITO. EM HIPÓTESE ALGUMA O
+O TITULAR DOS DIREITOS AUTORAIS SERÁ RESPONSÁVEL POR QUALQUER REIVINDICAÇÃO, DANOS OU OUTRA RESPONSABILIDADE,
+INCLUINDO QUALQUER QUANTIDADE GERAL, ESPECIAL, INDIRETA, INCIDENTAL OU CONSEQUENTE
+DANOS, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA, DECORRENTES
+DE, FORA DO USO OU INCAPACIDADE DE USAR O SOFTWARE DE FONTES OU DE
+OUTRAS NEGOCIAÇÕES NO SOFTWARE DE FONTES.
